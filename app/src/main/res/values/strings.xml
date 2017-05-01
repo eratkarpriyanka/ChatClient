@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatClient</string>
+    <string name="message_hint">Lets chat ...</string>
+    <string name="send">Send</string>
+    <string name="profile_other">other</string>
+    <string name="profile_me">my profile</string>
+</resources>
